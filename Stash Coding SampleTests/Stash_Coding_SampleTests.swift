@@ -2,12 +2,11 @@
 //  Stash_Coding_SampleTests.swift
 //  Stash Coding SampleTests
 //
-//  Created by Himanshu Sharma on 11/13/20.
+//  Created by Himanshu Sharma on 11/18/20.
 //  Copyright © 2020 Stash. All rights reserved.
 //
 
 import XCTest
-@testable import Stash_Coding_Sample
 
 class Stash_Coding_SampleTests: XCTestCase {
 
@@ -26,7 +25,7 @@ class Stash_Coding_SampleTests: XCTestCase {
 
     func testPerformanceExample() throws {
         // This is an example of a performance test case.
-        self.measure {
+        measure {
             // Put the code you want to measure the time of here.
         }
     }
